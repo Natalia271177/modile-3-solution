@@ -1,3 +1,7 @@
+Johns Hopkins University
+HTML, CSS, and Javascript for Web Developers Course (home assignment)
+
+
 Here is the link to the solution https://natalia271177.github.io/modile-3-solution/
 
 
